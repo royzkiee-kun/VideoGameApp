@@ -1,15 +1,4 @@
-import {
-  HStack,
-  Image,
-  Text,
-  SimpleGrid,
-  Icon,
-  Badge,
-  Card,
-  CardBody,
-  Skeleton,
-  SkeletonText,
-} from "@chakra-ui/react";
+import { Card, CardBody, Skeleton, SkeletonText } from "@chakra-ui/react";
 
 const GameCardSkeleton = () => {
   return (
