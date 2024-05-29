@@ -34,7 +34,7 @@ const useGames = (gameQuery: GameQuery) => useQuery
     
     .then(res => res.data)
   })
-  
+  // samepleee 
 
   
 
